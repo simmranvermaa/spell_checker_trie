@@ -18,3 +18,7 @@ Trie functioning:
 3. Unload:
 	a. Here we go through a recursive process of deallocating memory 	for all the nodes that 	    are leaf nodes of the corresponding sub-tries
 
+CONCLUSION:
+Implementing a spell checker using a trie is more efficient than most data structures in most languages. The code seems tedious but the speed and accuracy compensate for it. So, we can detect spelling errors in documents without cumbersome reading.
+
+
